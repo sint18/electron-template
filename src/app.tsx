@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <h1>Hello from React!</h1>
-      <button className="btn btn-primary rounded-full">Click me</button>
+      <button className="btn">Click me</button>
     </div>
   );
 }
